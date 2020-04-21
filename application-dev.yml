@@ -1,2 +1,4 @@
 server:
   port: 3344
+cloud:
+  info: This is test
