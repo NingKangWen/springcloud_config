@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:NingKangWen/springcloud_config.git
